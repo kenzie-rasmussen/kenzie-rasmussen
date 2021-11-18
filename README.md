@@ -17,9 +17,18 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/IDEA-Intellij-informational?style=for-the-badge&logo=IntellijIDEA&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/IDEA-Eclipse-informational?style=for-the-badge&logo=Eclipse&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=557C94)
+![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=for-the-badge&logo=AzureDevOps&logoColor=white&color=557C94)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+![](https://img.shields.io/badge/Native-English-informational?style=for-the-badge&logo=BookStack&logoColor=white&color=F7901E)
+![](https://img.shields.io/badge/Intermediate-Spanish-informational?style=for-the-badge&logo=BookStack&logoColor=white&color=F7901E)
+![](https://img.shields.io/badge/Beginner-Mandarin-informational?style=for-the-badge&logo=BookStack&logoColor=white&color=F7901E)
 
 <br />
 <br />
@@ -29,7 +38,7 @@
 ### 📕 Highlight Achievments
 
 <!-- ACHIEVEMENT-LIST:START -->
-- [Hired as a Software Developer for ✈️ American Airline's Customer Notification Engine 🎉]([linkedin])
+- [1 year milestone as a Software Developer for ✈️ American Airline's Customer Notification Engine 🎉]([linkedin])
 - [Research Paper | Towards Trustworthy Perception Information Sharing on Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/document/9138639)
 - [College Capstone | Mercy Clinic Volunteer System](https://cse.tcu.edu/stories/posts/computer-science-mercy-clinic.php)
 <!-- BLOG-POST-LIST:END -->
