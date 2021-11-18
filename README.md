@@ -48,23 +48,14 @@
 
 ---
 
+ <!-- [![Kenzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzie-rasmussen&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+I'd love to put my Github activity out for all to see, but American Airlines likes to keep their work safe! Any fun work I do on my personal dime will be proudly displayed if it's newly created!
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kenzie's GitHub Stats" src="https://github-readme-stats.kenzie-rasmussen.vercel.app/api?username=kenzie-rasmussen&show_icons=true&hide_border=true" />
 
 </details>
 
