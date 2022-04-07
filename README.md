@@ -6,7 +6,7 @@
 
 - 👯 I'm so excited to contribute to American's always changing Customer Notification Engine!
 - 🌱 I’m also currently writing my fantasy novel
-- 🥅 2021 Goals: Learn 3 new developer tools I can use at my job
+- 🥅 2022 Goals: Achieve basic proficiency in Mandarin!
 - <img src="https://emoji.gg/assets/emoji/9985_Boba.png" width="20" height="20" /> Fun fact: The best way to become my friend is to bring me Boba Tea!
 
 <br />
