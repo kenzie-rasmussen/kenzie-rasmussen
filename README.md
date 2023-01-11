@@ -5,8 +5,8 @@
 ### I'm a Wife, Developer, Christian, and Writer!!
 
 - 👯 I'm so excited to contribute to American's always changing Customer Notification Engine!
-- 🌱 I’m also currently writing my fantasy novel
-- 🥅 2022 Goals: Achieve basic proficiency in Mandarin!
+- 🌱 2023 Goals: Finishing the first draft of my fantasy novel!
+- 🥅 In 2022 I passed the HSK 1 for Mandarin proficency!
 - <img src="https://emoji.gg/assets/emoji/9985_Boba.png" width="20" height="20" /> Fun fact: The best way to become my friend is to bring me Boba Tea!
 
 <br />
@@ -38,7 +38,7 @@
 ### 📕 Highlight Achievments
 
 <!-- ACHIEVEMENT-LIST:START -->
-- [1 year milestone as a Software Developer for ✈️ American Airline's Customer Notification Engine 🎉]([linkedin])
+- [Becoming a Kubernetes Cloud Engineer for ✈️ American Airline's Customer Notification Engine 🎉]([linkedin])
 - [Research Paper | Towards Trustworthy Perception Information Sharing on Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/document/9138639)
 - [College Capstone | Mercy Clinic Volunteer System](https://cse.tcu.edu/stories/posts/computer-science-mercy-clinic.php)
 <!-- BLOG-POST-LIST:END -->
