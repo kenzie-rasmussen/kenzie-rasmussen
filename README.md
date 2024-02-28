@@ -4,25 +4,26 @@
 
 ### I'm a Wife, Developer, Christian, and Writer!!
 
-- 👯 I'm so excited to contribute to American's always changing Customer Notification Engine!
-- 🌱 2023 Goals: Finishing the first draft of my fantasy novel!
-- 🥅 In 2022 I passed the HSK 1 for Mandarin proficency!
+- 👯 Putting my certifications to good use over on American's Kubernetes as a Platform Service Team!
+- 💃 Becoming a regular teacher for Swing Dancing in the Fort Worth Area!
+- 🥅 Studying up for the HSK 2 Mandarin proficiency test!
 - <img src="https://emoji.gg/assets/emoji/9985_Boba.png" width="20" height="20" /> Fun fact: The best way to become my friend is to bring me Boba Tea!
 
 <br />
 
 ### 🛠️ Languages and Tools:
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=GNUBash&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=557C94)
+
+![](https://img.shields.io/badge/Tools-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5)
+![](https://img.shields.io/badge/OS-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&color=%23FCC624)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=%23007ACC)
+![](https://img.shields.io/badge/CICD-Github%20Actions-%23181717?style=for-the-badge&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![](https://img.shields.io/badge/IDEA-Intellij-informational?style=for-the-badge&logo=IntellijIDEA&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/IDEA-Eclipse-informational?style=for-the-badge&logo=Eclipse&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=557C94)
 ![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=for-the-badge&logo=AzureDevOps&logoColor=white&color=557C94)
 
@@ -38,9 +39,9 @@
 ### 📕 Highlight Achievments
 
 <!-- ACHIEVEMENT-LIST:START -->
-- [Becoming a Kubernetes Cloud Engineer for ✈️ American Airline's Customer Notification Engine 🎉]([linkedin])
-- [Research Paper | Towards Trustworthy Perception Information Sharing on Connected and Autonomous Vehicles](https://ieeexplore.ieee.org/document/9138639)
-- [College Capstone | Mercy Clinic Volunteer System](https://cse.tcu.edu/stories/posts/computer-science-mercy-clinic.php)
+- [New Position: Senior Infrastructure Engineer for Kubenetes Platform Team ✈️](https://www.linkedin.com/posts/kenzierasmussen07_so-excited-to-announce-that-im-starting-activity-7160089366445363200-hego?utm_source=share&utm_medium=member_desktop)
+- [Year of Learning: Also a Certified Linux System Administrator 🐧](https://www.linkedin.com/posts/kenzierasmussen07_22-this-year-im-now-a-certified-linux-activity-7117161675488665600-vB9K?utm_source=share&utm_medium=member_desktop)
+- [Year of Learning: Certified Kubernetes Administrator ☸️](https://www.linkedin.com/posts/kenzierasmussen07_so-excited-to-share-that-ive-passed-the-activity-7081057566029451264-9f01?utm_source=share&utm_medium=member_desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -48,11 +49,10 @@
 ### 🎶 Favorite Coding Background Music
 
 <!-- YOUTUBE:START -->
+- [Asian Inpired Lofi Beats](https://www.youtube.com/live/rirPDtKHfv8?si=ZRJilsCy6v8gPl10)
 - [How to Train your Dragon | Peaceful Theme Music and Ambience](https://youtu.be/M7iXsGh5YP0)
 - [Jeremy Soule (Oblivion) - King & Country (Homework Edit)](https://youtu.be/h9WudJDkeBI)
 - [Medieval Fantasy Music – Medieval Market Folk, Traditional, Instrumental](https://youtu.be/qSbSszLKtYM)
-- [RPG Playlist - Taverns/Inns](https://youtu.be/fIuO3RpMvHg)
-- [Assassin's Creed Ambience- The Most Beautiful music from AC 1 to AC: Odyssey](https://youtu.be/9QvRjjNzRMQ)
 <!-- YOUTUBE:END -->
 
 ---
