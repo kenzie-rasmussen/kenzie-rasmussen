@@ -16,7 +16,7 @@
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5)
 ![](https://img.shields.io/badge/OS-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&color=%23FCC624)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=%23007ACC)
+![](https://img.shields.io/badge/IDE-Goland-%23007ACC?style=for-the-badge&logo=goland&logoColor=white&color=%23007ACC)
 ![](https://img.shields.io/badge/CICD-Github%20Actions-%23181717?style=for-the-badge&logo=githubactions&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
