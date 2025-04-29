@@ -4,7 +4,7 @@
 
 ### I'm a Christian, Developer, and now a brand new Mother!!
 
-- 👯 Ugprading and maintaining custom golang operators for American Airlines' Kubernetes Platform As A Service!
+- 👯 Upgrading and maintaining custom golang operators for American Airlines' Kubernetes Platform As A Service!
 - 👶 Navigating the new challenges of motherhood with a brand new baby boy!
 - 📃 Designing Bilingual English/Mandarin Chinese printables over at [Print & Pinyin](https://www.printandpinyin.com)!
 - <img src="https://emoji.gg/assets/emoji/9985_Boba.png" width="20" height="20" /> Fun fact: The best way to become my friend is to bring me Boba Tea!
