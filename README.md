@@ -15,21 +15,15 @@
 
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=%23326CE5)
-![](https://img.shields.io/badge/OS-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white&color=%23FCC624)
-![](https://img.shields.io/badge/IDE-Goland-%23007ACC?style=for-the-badge&logo=goland&logoColor=white&color=%23007ACC)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/CICD-Github%20Actions-%23181717?style=for-the-badge&logo=githubactions&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![](https://img.shields.io/badge/IDEA-Intellij-informational?style=for-the-badge&logo=IntellijIDEA&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=white&color=557C94)
-![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=for-the-badge&logo=AzureDevOps&logoColor=white&color=557C94)
+![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![](https://img.shields.io/badge/Native-English-informational?style=for-the-badge&logo=BookStack&logoColor=white&color=F7901E)
-![](https://img.shields.io/badge/Intermediate-Spanish-informational?style=for-the-badge&logo=BookStack&logoColor=white&color=F7901E)
-![](https://img.shields.io/badge/Beginner-Mandarin-informational?style=for-the-badge&logo=BookStack&logoColor=white&color=F7901E)
+![English](https://img.shields.io/badge/Native_Language-English-4B0082?style=for-the-badge&logo=gitbook&logoColor=white)
+![Mandarin Chinese](https://img.shields.io/badge/Beginner_Language-Mandarin%20Chinese-4B0082?style=for-the-badge&logo=gitbook&logoColor=white)
 
 <br />
 <br />
@@ -50,9 +44,9 @@
 
 <!-- YOUTUBE:START -->
 - [Asian Inpired Lofi Beats](https://www.youtube.com/live/rirPDtKHfv8?si=ZRJilsCy6v8gPl10)
-- [How to Train your Dragon | Peaceful Theme Music and Ambience](https://youtu.be/M7iXsGh5YP0)
-- [Jeremy Soule (Oblivion) - King & Country (Homework Edit)](https://youtu.be/h9WudJDkeBI)
-- [Medieval Fantasy Music – Medieval Market Folk, Traditional, Instrumental](https://youtu.be/qSbSszLKtYM)
+- [Baldur's Gate 3 Soundtrack](https://youtu.be/rACM-mpTj4c?si=vf9I5xFQl_CIT9gm)
+- [In His Presence: Christian Lofi Instrumental](https://www.youtube.com/watch?v=KLC32x2LVmg)
+- [Brown Noise Pomodoro Sessions](https://www.youtube.com/watch?v=BfNzu_xxk8U)
 <!-- YOUTUBE:END -->
 
 ---
